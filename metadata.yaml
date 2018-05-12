@@ -1,0 +1,43 @@
+_repo: The-Monster-and-Other-Stories_31189
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crane, Stephen
+    alias: Smith, Johnston
+    birthdate: 1871
+    deathdate: 1900
+    gutenberg_agent_id: '55'
+    url: http://www.gutenberg.org/2009/agents/55
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Crane
+description: 'The Blue hotel: "As the story opens, three visitors find shelter from
+  a blizzard at Pat Scully''s hotel in Fort Romper, Neb.: a nervous New Yorker known
+  as the Swede, a rambunctious Westerner named Bill, and a reserved Easterner called
+  Mr. Blanc. The Swede becomes increasingly drunk, defensive, and reckless. He beats
+  Scully''s son, Johnnie, in a fight after accusing him of cheating at cards. When
+  the Swede accosts a patron of a bar, he is stabbed and killed. The story ends ambiguously
+  at a point several months later, when timid Mr. Blanc confesses to Bill that he
+  feels somewhat responsible for the Swede''s death because he failed to act when
+  he saw that Johnnie was indeed cheating at cards." --Encyclopædia Britannica website.'
+gutenberg_issued: '2010-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31189'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Disfigured persons -- Fiction'
+- !lcsh 'Social isolation -- Fiction'
+- !lcsh 'Mittens -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Nebraska -- Fiction'
+- !lcsh 'Hotels -- Fiction'
+- !lcsh 'Missing children -- Fiction'
+tableOfContents: The Monster -- The Blue Hotel -- His New Mittens
+title: The Monster and Other Stories
+url: http://www.gutenberg.org/ebooks/31189
